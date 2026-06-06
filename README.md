@@ -60,7 +60,7 @@ Yet many reported stronger satisfaction levels.
 
 One possible explanation is that switchers evaluate their current role against what they left behind rather than against industry averages. The move into data may improve autonomy, flexibility, or intellectual engagement before it improves compensation.
 
-The transition appears to create psychological gains faster than economic ones.
+The transition may create perceived improvements in satisfaction before comparable financial gains appear.
 
 ---
 
