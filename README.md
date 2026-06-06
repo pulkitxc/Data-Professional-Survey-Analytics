@@ -189,4 +189,3 @@ If the analysis can be reduced to a single observation, it is this:
 
 > Many data professionals enjoy the work. A significant number are still waiting for the career to fully deliver on its promise.
 
-This is the version I'd publish. It's honest, technically accurate, tells a story, avoids overclaiming, and sounds like an analyst rather than a LinkedIn motivational speaker or an AI-generated corporate report. 😼📊🔥
