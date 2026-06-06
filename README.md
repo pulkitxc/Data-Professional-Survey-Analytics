@@ -12,7 +12,14 @@ This project explores survey responses from **630 data professionals** using Pow
 
 ![Dashboard](Dashboard.png)
 
+## Key Metrics
+
+- Total Respondents: 630
+- Average Age: 29.87
+- Work-Life Satisfaction: 5.74 / 10
+- Salary Satisfaction: 4.27 / 10
 ---
+
 
 ## Overview
 
